@@ -1,0 +1,62 @@
+.img1{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 4px dotted yellow;
+    
+}
+.image11{
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    
+
+.heading{
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    padding: 15px;
+    height: 100px;
+    width: 400px;
+    box-sizing: border-box;
+    border-radius: 10%;
+    font-size: x-large;
+    
+}  
+.heading1{
+display: grid;
+place-items: center;
+z-index: 1;
+}
+
+.break{
+    background-color: grey;
+    height: 30px;
+}
+.address{
+    text-align: center;
+}
+
+.workexpierence1{
+    float: right;
+}
+.education{
+    float: right;
+}
+#vl{
+    border-left: 1px solid black;
+    height: 700px;
+}
+h6{
+    text-align: center;
+}
+.technicalskills{
+    display: flex ;
+flex-direction: column;
+
+}
+
